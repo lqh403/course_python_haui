@@ -4,7 +4,7 @@
 a = int(input("Mời nhập số: "))
 
 if a % 2 == 0:
-    print(f"Số {a} vừa nhập là số chẵn ")
+    print(f"Số {a} là số chẵn ")
 else:
-    print(f"Số {a} vừa nhập là số lẻ ")
+    print(f"Số {a} là số lẻ ")
         
