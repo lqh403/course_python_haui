@@ -1,0 +1,71 @@
+#1. Ctrl+Shift+P, F1: hiển thị bảng lệnh (command palette).
+
+            
+
+#2. Ctrl+P: tìm và mở nhanh một file.
+
+#3. Ctrl+Shift+F: hiển thị search ở phần sidebar bên trái.
+
+#4. Ctrl+B: ẩn hiện sidebar bên trái.
+
+#5. Ctrl+`: ẩn hiện Terminal.
+
+#6. Ctrl+Shift+M: ẩn hiện Problems.
+
+#7. Ctrl+/: tắt mở comment cho dòng hiện tại.
+
+#8. Ctrl+Tab: mở file đang mở kế tiếp.
+
+#9. Ctrl+Shift+Tab: mở file đang mở trước đó.
+
+#10. Ctrl+Space, Ctrl+I: gợi ý code.
+
+#11. Ctrl+X: xóa dòng hiện tại.
+
+#12. Ctrl+.: tìm cách khắc phục lỗi.
+
+#13. Ctrl+F: tìm kiếm trong một file.
+
+#14. Ctrl+H: tìm kiếm và thay thế trong một file.
+
+#15. Ctrl+Click, F12: di chuyển đến nơi định nghĩa của hàm.
+
+#16. Ctrl+W: đóng file hiện tại đang mở.
+
+#17. Ctrl+Shift+T: mở file vừa đóng.
+
+#18. Ctrl+,: mở Settings trong Visual Studio Code.
+
+#19. Ctrl+\: chia màn hình (Split Editor) trong Visual Studio Code.
+
+#20. Ctrl+Shift+L: chọn tất cả các lần xuất hiện của cụm từ đang được chọn trong một file.
+
+#21. Ctrl+G: chuyển nhanh đến dòng bất kỳ.
+
+#22. Ctrl+Enter: thêm một dòng mới dưới dòng hiện tại.
+
+#23. Ctrl+N: tạo một file mới.
+
+#24. Ctrl+K S: lưu tất cả file trong Visual Studio Code.
+
+#25. Shift+Alt+F: định dạng code.
+
+#26. Shift+Alt+A: tắt mở một khối (block) chú thích.
+
+#27. Shift+F12: hiển thị những nơi sử dụng biến, hàm,… đang chọn.
+
+#28. Alt+Click: chọn nhiều con trỏ (mutiple cursors) trong file.
+
+#29. Alt+↑: di chuyển dòng hiện tại lên trên hoặc xuống dưới.
+
+#30. Alt+↓: di chuyển dòng hiện tại xuống dưới.
+
+
+ Ctrl+ ]   có thể thay thế bằng phím Tab.
+2.Ctrl+ [   có  thể thay thế bằng Shift+Tab.
+3.Các Phím tắt "Bôi Đen" :
+          a).Bôi đen 1 ký tự:    Shift+ ➡      hoặc   Shift+ ⬅
+          b).Bôi đen 1 từ:        Ctrl+ D
+          c).Bôi đen 1 dòng:    Ctrl+L   hoặc Ctrl +Shift+ ⬇ hoặc  Ctrl+Shift+ ⬆
+          d).Bôi đen 1 đoạn văn bản: Đặt con trỏ chuột vào dòng đầu tiên của đoạn 
+          văn cần bôi đen và bấm Ctrl+L  liên tục cho đến khi bôi đen hết doạn văn đó.

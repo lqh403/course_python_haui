@@ -7,4 +7,4 @@ if a % 2 == 0:
     print(f"Số {a} là số chẵn ")
 else:
     print(f"Số {a} là số lẻ ")
-        
+    
